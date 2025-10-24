@@ -18,7 +18,7 @@ Here's a look at our "awesome" project design!
 
 
 
-![Project Screenshot](<img width="1881" height="988" alt="Screenshot 2025-10-25 000349" src="https://github.com/user-attachments/assets/eb34a274-3f68-422d-aad4-784a4375ba77" />
+[Project Screenshot](<img width="1881" height="988" alt="Screenshot 2025-10-25 000349" src="https://github.com/user-attachments/assets/eb34a274-3f68-422d-aad4-784a4375ba77" />
 )
 <img width="1916" height="988" alt="Screenshot 2025-10-25 000505" src="https://github.com/user-attachments/assets/7ae8cc7a-c45c-49a3-b441-07d513277742" />
 <img width="1731" height="956" alt="Screenshot 2025-10-25 000520" src="https://github.com/user-attachments/assets/23499c81-bd3f-4273-babf-aff3bbfabed9" />
